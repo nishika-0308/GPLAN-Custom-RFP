@@ -4,7 +4,7 @@ This project is aimed at using data instead of traditional graph theoretic metho
 
 **Dataset**\
 It is a manually collected large-scale densely annotated dataset of more than 80k floor plans from real residential buildings. 
-We have used this dataset to filter out the best adjacency graphs on input number of rooms.\\
+We have used this dataset to filter out the best adjacency graphs on input number of rooms.\
 
 For the dataset, you can request the data.mat file from the authors of "Data-driven Interior Plan Generation for Residential Buildings"
 link- https://docs.google.com/forms/d/e/1FAIpQLSfwteilXzURRKDI5QopWCyOGkeb_CFFbRwtQ0SOPhEg0KGSfw/viewform
