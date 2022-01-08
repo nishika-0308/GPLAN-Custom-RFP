@@ -7,6 +7,6 @@ It is a manually collected large-scale densely annotated dataset of more than 80
 We have used this dataset to filter out the best adjacency graphs on input number of rooms.
 
 For the dataset, you can request the data.mat file from the authors of "Data-driven Interior Plan Generation for Residential Buildings"
-link- https://docs.google.com/forms/d/e/1FAIpQLSfwteilXzURRKDI5QopWCyOGkeb_CFFbRwtQ0SOPhEg0KGSfw/viewform
+Link- https://docs.google.com/forms/d/e/1FAIpQLSfwteilXzURRKDI5QopWCyOGkeb_CFFbRwtQ0SOPhEg0KGSfw/viewform
 
 **Main Idea** is coded in RFPSearch.py
